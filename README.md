@@ -1,7 +1,7 @@
 # DiskCleanMaster Support Site
 
-- Live URL: `https://shemliang.github.io/DiskCleanMaster/`
-- Privacy Policy: `https://shemliang.github.io/DiskCleanMaster/privacy-policy.html`
+- Live URL: `https://shemliang.github.io/DiskPrism/`
+- Privacy Policy: `https://shemliang.github.io/DiskPrism/privacy-policy.html`
 - Source project: `support-site/`
 
 ## Publish Flow
@@ -13,6 +13,6 @@
 
 ## Notes
 
-- The build output targets GitHub Pages under the `/DiskCleanMaster/` base path.
+- The build output targets GitHub Pages under the `/DiskPrism/` base path.
 - `npm run build` also removes stale hashed files from `docs/DiskCleanMaster/assets/`.
 - Keep `privacy-policy.html` and `.nojekyll` in `docs/DiskCleanMaster/`.
